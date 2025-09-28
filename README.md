@@ -22,11 +22,6 @@ I specialize in building scalable **ETL/ELT pipelines**, developing **decision d
 - Generative AI & LLMs (chatbots, automation, OCR)  
 - Cloud & DevOps foundations  
 
-## ⚡ Fun Facts
-🏸 Badminton & Swimming enthusiast  
-♟️ Chess player  
-🌱 Interested in AI, automation, and sustainable tech  
-
 --- 
 
-⭐️ *“Data is only valuable when it drives action.”*
+⭐️ “Data is only valuable when it drives action.”
