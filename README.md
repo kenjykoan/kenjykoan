@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Kenjy KOAN
 
-<!--
-**kenjykoan/kenjykoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Engineer** | Passionate about automation, analytics & AI  
+📍 Based in Paris, France  
+📧 kenjy.koan@gmail.com | [LinkedIn](https://linkedin.com/in/kenjykoan)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I’m a **Data Engineer** with 3+ years of experience in **data engineering and analytics applied to supply chain**.  
+I specialize in building scalable **ETL/ELT pipelines**, developing **decision dashboards**, and leading **data-driven initiatives** that improve operational performance and sustainability.
+
+---
+
+## 🧩 Key Skills
+
+**Languages & Tools:**  
+🧠 Python | SQL | R | Git | CI/CD  
+📊 Power BI | Excel | Kibana | Dataiku | MySQL  
+⚙️ Pandas | Numpy | Matplotlib  
+
+**Domains:**  
+- Data Engineering (ETL/ELT, MDM, automation)  
+- Business Intelligence (dashboards, KPIs, reporting)  
+- Supply Chain Analytics (forecasting, inventory optimization)  
+- Generative AI & LLMs (chatbots, automation, OCR)  
+- Cloud & DevOps foundations  
+
+---
+
+## ⚡ Fun Facts
+🏸 Badminton & Swimming enthusiast  
+♟️ Chess player  
+🌱 Interested in AI, automation, and sustainable tech  
+
+---
+
+⭐️ *“Data is only valuable when it drives action.”*
